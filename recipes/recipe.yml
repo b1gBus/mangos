@@ -51,14 +51,14 @@ modules:
         - slurp
         - grim
 
-	# File management
+        # File management
         - thunar
         - thunar-archive-plugin
         - thunar-volman
         - file-roller
         - imv
 
-	# CLI essentials
+        # CLI essentials
         - tmux
         - zsh
         - starship
@@ -75,14 +75,13 @@ modules:
         - acpi
         - mpv
 
-	# Useful desktop helpers
+        # Useful desktop helpers
         - pavucontrol
         - playerctl
         - network-manager-applet
         - blueman-applet
 
-
-	# Printing
+        # Printing
         - cups
 
     remove:
