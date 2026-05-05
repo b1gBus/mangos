@@ -16,7 +16,7 @@ modules:
     repos:
       copr:
         - lihaohong/yazi
-        - solopasha/hyprland
+        - lionheartp/Hyprland
       cleanup: true
     install:
       install-weak-deps: false
